@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/rameshk553/poc-automated-releases/compare/project-a-v1.2.0...project-a-v1.3.0) (2026-04-02)
+
+
+### Features
+
+* added feature 3 to project A ([05b4a88](https://github.com/rameshk553/poc-automated-releases/commit/05b4a88d5e9c76af68575f88654dbed17e23083d))
+
 ## [1.2.0](https://github.com/rameshk553/poc-automated-releases/compare/project-a-v1.1.0...project-a-v1.2.0) (2026-04-02)
 
 
